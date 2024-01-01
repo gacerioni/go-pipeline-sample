@@ -27,5 +27,4 @@ Bring Your Own Infrastructure:
 
 ## Licensing
 
-MIT License 
-sfasfss
+MIT License
