@@ -31,4 +31,3 @@ func TestGreetingDefault(t *testing.T) {
 		t.Errorf("Greeting was incorrect, got: %s, want: %s.", greeting, "Hello, Guest\n")
 	}
 }
- 
